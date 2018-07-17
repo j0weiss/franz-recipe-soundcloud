@@ -1,0 +1,13 @@
+{
+  "id": "soundcloud",
+  "name": "Soundcloud",
+  "version": "0.0.1",
+  "description": "Soundcloud at hand using Franz <https://github.com/meetfranz>",
+  "main": "index.js",
+  "author": "Johannes Weiß <j0weiss@icloud.com>",
+  "license": "MIT",
+  "repository": "...",
+  "config": {
+    "serviceURL": "https://soundcloud.com/"
+  }
+}
